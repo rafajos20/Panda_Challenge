@@ -23,7 +23,9 @@ In general the Charter schools are directly affected by this new analysis decrea
 ### o	How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade:
 The most important part in the new analysis was change the ninth-grade scores of Thomas High School's to the new variable NaN (Not A Number) this would be affected the averages for the students of 9th and the general averages because we are replace a number for NaN Variable. 
+
 ![](Img/img4.png) 
+
 ![](Img/img5.png) 
 
 ### 	Scores by school spending
