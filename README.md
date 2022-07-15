@@ -7,7 +7,7 @@ o	How is the district summary affected?
 
 The “passing math”, “passing reading” and “overall passing” percentages are decrease, considered like the most notorious change the overall passing decrease in 0.3 percent, because the Thomas High School's ninth grade students are including in the “Total students” number but them scores are not considered for percentages of passing. 
 
-![](img/img1.png)  
+![](Img/img1.png)  
 
 o	How is the school summary affected?
 
