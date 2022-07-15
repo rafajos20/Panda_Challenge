@@ -36,7 +36,8 @@ The spending range past of  $631-$645/student to $630-$644/student changing in a
 ### 	Scores by school size
 Thomas High School's is considered a “Medium” School because they have 1635 students, for this reason the changes in the analysis for this school affects schools of the same size decreasing the percentages of passing include the overall passing. 
 
-![](resources/img7.png) 
+![](Img/img7.png) 
+
 ### 	Scores by school type
 Thomas High School's is defined a “Charter” School and the changes suffered in the a analysis affects schools of the same “Type” decreasing the percentages of passing include the overall passing, similar case happened in the Scores by school size.
 ![](Img/img3-8.png) 
