@@ -1,15 +1,15 @@
 # Panda_Challenge
-## 1.	Overview of the school district analysis:
+## 1.	Overview of the school district Analysis:
 The school board asked for analysis focused on the performance of math and reading scores. However, after the school board reviewed the information obtained in the previous analysis on a set of schools, it was determined that the data from Thomas High School's 9th grade class was suspect of cheating, so for this reason is necessary to repeat the analysis of the schools based on the performance of the schools with the condition of that Thomas High School's ninth grade students should not be considered as part of the scores and it should be redefined them scores in the data.
 
 ## 2.	Results:
-### o	How is the district summary affected?
+### o	How is the District Summary affected?
 
 The “passing math”, “passing reading” and “overall passing” percentages are decrease, considered like the most notorious change the overall passing decrease in 0.3 percent, because the Thomas High School's ninth grade students are including in the “Total students” number but them scores are not considered for percentages of passing. 
 
 ![](Img/img1.png)  
 
-### o	How is the school summary affected?
+### o	How is the School Summary affected?
 
 The “average Math Score” decrease in a 0.6 percent, it affects directly in “% Passing Math” passing to the 93.27% to 93.18%. A similar case happened with “Average Reading Score” decrease in a 0.5 percent but decreasing considerably “% Passing Reading” variable in a 0.29%, finally the % Overall Passing is affected too decrease in 0.31%. 
 
